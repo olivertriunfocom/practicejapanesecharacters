@@ -7,4 +7,6 @@ Dakuten variants (e.g. が, ざ, だ)
 Combination sounds (e.g. きゃ, しゃ, ちゃ)
 The app then presents randomized prompts, and users input the corresponding romaji (Latin alphabet) reading. The app provides instant feedback, highlighting correct and incorrect responses, along with the correct answer when necessary.
 
+Try it: https://practicejapanesecharacters.olivertriunfo.com/
+
 Built with Next.js, Tailwind CSS, and React, this project is a minimal, responsive tool that helps learners build reading fluency through repetition and active recall.
